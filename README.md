@@ -1,5 +1,7 @@
 # datastructures-2024Data Structures and Algorithms Quiz Solutions
 This repository contains C++ solutions to four common problems related to data structures and algorithms.
+AUTHOR-VICTOR IRERI
+REG NO-SCT211-0435/2023
 
 Problem Descriptions:
 Remove Duplicates from Sorted Array:
